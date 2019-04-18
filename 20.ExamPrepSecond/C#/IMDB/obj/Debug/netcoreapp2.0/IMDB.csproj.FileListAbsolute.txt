@@ -1,0 +1,11 @@
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojResolveAssemblyReference.cache
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+D:\MyFolder\SoftwareTechnologies\ExamPrep2\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb

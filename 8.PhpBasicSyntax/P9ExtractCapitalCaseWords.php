@@ -1,0 +1,20 @@
+<?php
+if (isset($_GET['text'])) {
+    $text = $_GET['text'];
+    preg_match_all('/\w+/', $text, $words);
+    $words = $words[0]; //groups 0's matches
+
+    $upperWords = array_filter($words, function ($word) {
+        return strtoupper($word) == $word;
+    });
+
+    $upperWords = implode(', ', $upperWords);
+}
+?>
+
+<form>
+    <textarea rows="10" name="text">
+        <?= $upperWords ?>
+    </textarea> <br>
+    <input type="submit" value="Extract">
+</form>

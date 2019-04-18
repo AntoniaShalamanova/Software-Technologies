@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+</head>
+<body>
+<form>
+    <label>First number:</label>
+    <input type="number" id="num1"/>
+    <br>
+    <label>Second number:</label>
+    <input type="number" id="num2"/>
+
+    <input type="button" value="Calculate Sum" onclick="sumNumbers()"/>
+    <br>
+    <label>Result:</label>
+    <span id="result"></span>
+</form>
+</body>
+
+<style>
+    #result{
+        display: inline-block;
+        border: 1px solid;
+        width: 80px;
+        height: 20px;
+        color: crimson;
+        border-color: black;
+        margin: 5px;
+    }
+    input{
+        margin: 5px;
+    }
+</style>
+
+<script>
+    function sumNumbers() {
+        let num1 = Number(document.getElementById("num1").value);
+        let num2 = Number(document.getElementById("num2").value);
+        let result = num1 + num2;
+
+        document.getElementById("result").textContent = result;
+    }
+</script>
+
+</html>

@@ -1,0 +1,41 @@
+#redBorder{
+    border-color: red;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: lightgray;
+    padding: 15px;
+    width: 100px;
+    text-align: center;
+}
+
+#redWord{
+    color: red;
+}
+
+#greenBorder{
+    border-color: green;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: lightgray;
+    padding: 15px;
+    width: 100px;
+    text-align: center;
+}
+
+#greenWord{
+    color: green;
+}
+
+#blueBorder{
+    border-color: blue;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: lightgray;
+    padding: 15px;
+    width: 100px;
+    text-align: center;
+}
+
+#blueWord{
+    color: blue;
+}

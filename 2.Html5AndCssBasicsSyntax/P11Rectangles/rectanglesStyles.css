@@ -1,0 +1,26 @@
+#outsideDiv{
+    border-color: blue;
+    border-style: dotted;
+    border-radius: 5px;
+    padding: 15px;
+    width: 220px;
+}
+
+#middleDiv{
+    border-color: red;
+    border-style: dashed;
+    border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+}
+
+#innerDiv{
+    border-color: green;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-size: medium;
+    width: 150px;
+    margin: 10px;
+}
